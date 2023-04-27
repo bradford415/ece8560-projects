@@ -6,6 +6,8 @@ Project 3
 April 28, 2023
 
 References: https://github.com/JasonFengGit/Neural-Model-Translation
+
+Dataset location (vietnamese): https://nlp.stanford.edu/projects/nmt/
 """
 from __future__ import print_function
 import argparse
