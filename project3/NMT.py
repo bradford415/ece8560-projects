@@ -47,7 +47,7 @@ SOS_token = 0
 EOS_token = 1
 PAD_ID = 2
 UNKNOWN_ID = 3
-BUCKETS = [(19, 19), (28, 28), (33, 33), (40, 43), (50, 53), (60, 63)]
+#BUCKETS = [(19, 19), (28, 28), (33, 33), (40, 43), (50, 53), (60, 63)]
 MAX_LENGTH = 50
 
 class Lang:
